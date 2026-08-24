@@ -31,7 +31,9 @@ Therefore, given target values for chromatic dispersion and attenuation loss plu
 ## Calculations
 1. Determine the maximum allowable fiber loss  
 2. Determine the maximum allowable chromatic dispersion  
-3. Based on the results of (1) and (2), determine the lengths of the transmission fiber and the DCF  
+3. Based on the results of (1) and (2), determine the lengths of the transmission fiber and the DCF
+   
+<img width="800" height="800" alt="WhatsApp Image 2026-08-19 at 9 26 55 AM" src="https://github.com/user-attachments/assets/c9043263-71b6-4e88-bbb9-8e280cfccbea" />
 
 ---
 
